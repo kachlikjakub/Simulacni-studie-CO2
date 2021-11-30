@@ -1,5 +1,6 @@
 # Simulační studie CO2
 Autoři: Jakub Kachlík a Ondřej Dacer
+
 Semestrální projekt 2019/2020 předmětu Modelování a simulace: Uhlíková stopa v zemědělství, lesnictví a zpracovatelském průmyslu.
 
 Program počítá přibližnou rozlohu lesů (*ha*) v České republice v průběhu let a jejich vliv na absorbci CO2, vzhledem k průměrným statickým hodnotám produkce z minulých let. V každé iteraci program požaduje 2 vstupy: 

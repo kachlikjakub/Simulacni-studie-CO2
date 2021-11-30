@@ -1,4 +1,4 @@
-# Simulacni_studie_CO2
+# Simulační studie CO2
 Autoři: Jakub Kachlík a Ondřej Dacer
 Semestrální projekt 2019/2020 předmětu Modelování a simulace: Uhlíková stopa v zemědělství, lesnictví a zpracovatelském průmyslu.
 
